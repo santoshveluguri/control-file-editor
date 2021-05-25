@@ -34,6 +34,6 @@ jobs:
       with:
         app-name: ControlFileEditor
         slot-name: Production
-        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1437379F71C643B3A41F66798A35C06B }}
+        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_13B8BBB0DCB047D6816C7D4DDB9E59E1 }}
         package: .
 
